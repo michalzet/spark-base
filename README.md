@@ -1,1 +1,1 @@
-# spark-base
+# Spark-base docker image
